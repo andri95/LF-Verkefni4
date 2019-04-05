@@ -14,4 +14,6 @@ Oft kallað psuedo-3d, er þegar "2d graphical projections" og svipaðar aðfer�
 Ég held að ég skilji þetta nokkurnveginn en ég á mjöög erfitt með að koma þessu í orð á íslensku.  Horfði á þetta tutorial sem útskýrir þetta vel:
 https://www.youtube.com/watch?v=9yW--eQaA2I  
 ## Búðu til samsetta sprite persónu eða hlut að eigin vali.  
+Youtube myndband: https://youtu.be/mxAd8U9Pqkc  
+Executable skrá fylgir að ofan.
 
