@@ -3,7 +3,7 @@
 Í 2D er notuð svokölluð orthographic camera, en með henni sér maður ekki perspective effect af objectum í leikjaspilun. Þeas maður sér leikinn bara frá einu sjónarhorni. Í staðinn fyrir 3D objecta notar maður 2D sprites sem eru í raun layers af myndum sem eru áföst á hreyfanlegum object. Það sama á við um "Scene"ið. Allt bara layers af myndum/sprites. Það er skilst mér hægt að nota 3D objecta í 2D en það breytir í raun engu þar sem myndavélin sér þá bara frá einu sjónarhorni.  
 ## 2. Berðu saman og tilgreindu amk. 3 mismunandi tegundir af 2D tölvuleikjum.  
 **a) Single Screen leikir**  
-Allt levelið/allur leikurinn gerist á einum skjá, þeas. umhverfið hreyfist/breytist ekkert en leikmaðurinn hreyfist um skjáinn. Fyrsti leikur sem mér dettur í hug er Pac-Man.
+Allt levelið/allur leikurinn gerist á einum skjá, þeas. umhverfið hreyfist/breytist ekkert en leikmaðurinn hreyfist um skjáinn. Fyrsti leikur sem mér dettur í hug er Pac-Man.  
 **b) Scrollers**  
 Í scrollers hreyfist leikmaður í raun ekkert en umhverfið hreyfist í samræmi við input, sem lítur út eins og leikmaður sé að færast áfram inni í leiknum. Góð dæmi um svona leiki eru Pokémon leikirnir í Game-Boy.  
 **c) Side scrollers**  
